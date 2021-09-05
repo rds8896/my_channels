@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 zee5.py > ../New_channels.m3u
+python3 zee5.py
 
 echo m3u grabbed
