@@ -34,6 +34,33 @@ params = {
 channels = []
 
 
+for genre in genres:
+    print('In genre')
+    params['genres'] = genre
+    zee_channel_list = response = requests.get('https://catalogapi.zee5.com/v1/channel/bygenre', headers=headers, params=params).json()
+    for zee_channel in zee_channel_list['items'][0]['items']:
+        id = zee_channel['id']
+
+        #api url needs to be checked once finalised
+        api_url = "https://wispy-mountain-0801.rds8896.workers.dev/?url={}".format(id)
+        json = requests.get(api_url).text
+        #hls = json['stream_url_hls']
+
+        #adding zee channels
+        if zee_channel['genres'][0]['value'] == 'Hindi News':
+            zee_cat = 'News'
+        elif zee_channel['genres'][0]['value'] == 'Hindi Entertainment':
+            zee_cat = 'Entertainment'
+        else:
+            zee_cat = zee_channel['genres'][0]['value']
+        channel = {
+            'title': zee_channel['title'],
+            'category': zee_cat,
+            'language': zee_channel['languages'][0],
+            'url': json}
+        channels.append(channel)
+
+
 mx_link = 'https://api.mxplay.com/v1/web/live/channels?device-density=2'
 mx_json = requests.get(mx_link).json()
 
@@ -107,33 +134,6 @@ for i in mx_channel_list:
                     'language' : lang[0]['id'],
                     'url' : i['stream']['mxplay']['hls']['main'] }
             channels.append(channel)
-
-
-for genre in genres:
-    params['genres'] = genre
-    zee_channel_list = response = requests.get('https://catalogapi.zee5.com/v1/channel/bygenre', headers=headers, params=params).json()
-    for zee_channel in zee_channel_list['items'][0]['items']:
-        id = zee_channel['id']
-
-        #api url needs to be checked once finalised
-        api_url = "https://wispy-mountain-0801.rds8896.workers.dev/?url={}".format(id)
-        json = requests.get(api_url).text
-        #hls = json['stream_url_hls']
-
-        #adding zee channels
-        if zee_channel['genres'][0]['value'] == 'Hindi News':
-            zee_cat = 'News'
-        elif zee_channel['genres'][0]['value'] == 'Hindi Entertainment':
-            zee_cat = 'Entertainment'
-        else:
-            zee_cat = zee_channel['genres'][0]['value']
-        channel = {
-            'title': zee_channel['title'],
-            'category': zee_cat,
-            'language': zee_channel['languages'][0],
-            'url': json}
-        channels.append(channel)
-
 
 #aaj tak
 api_url = "https://wispy-mountain-0801.rds8896.workers.dev/?url=0-9-aajtak"
@@ -246,11 +246,11 @@ with open('../Updated_channels.m3u', 'w') as f:
     f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8')
     f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",SONY SIX HD')
     f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SNEH SONYLIV-LIVE",SONY TEN 1 HD')
+    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD')
     f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SNEH SONYLIV-LIVE",SONY TEN 2 HD')
+    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD')
     f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SNEH SONYLIV-LIVE",SONY TEN 3 HD')
+    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD')
     f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8')
     f.write('\n#EXTINF:-1 tvg-id="" tvg-name="STAR Sports 1 HD" tvg-logo="" group-title="Sports",STAR Sports 1 HD')
     f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241506')
