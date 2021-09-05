@@ -178,7 +178,7 @@ def grab(url):
 
 
 #open youtube file list
-with open('../youtube_channel_info.txt') as f:
+with open('youtube_channel_info.txt') as f:
     for line in f:
         line = line.strip()
         youtube_url = ''
@@ -204,7 +204,7 @@ with open('../youtube_channel_info.txt') as f:
 ## github
 
 
-with open('../Updated_channels.m3u', 'w') as f:
+with open('Updated_channels.m3u', 'w') as f:
     f.write('#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"\n')
     channels.sort(key=sortFunc)
     for channel in channels:
