@@ -204,29 +204,29 @@ with open('../youtube_channel_info.txt') as f:
 ## github
 
 
-with open(str('New_channels') + '.m3u', 'w') as f:
+with open('../Updated_channels.m3u', 'w') as f:
     f.write('#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"\n')
     channels.sort(key=sortFunc)
     for channel in channels:
         f.write('\n')
         if channel['language'] == 'pa':
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format('Punjabi', channel['title']))
-            f.write(channel['url'])
+            f.write(str(channel['url']))
         elif channel['category'] == 'News':
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format(channel['category'],channel['title']))
-            f.write(channel['url'])
+            f.write(str(channel['url']))
         elif channel['category'] == 'Entertainment':
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format(channel['category'], channel['title']))
-            f.write(channel['url'])
+            f.write(str(channel['url']))
         elif channel['category'] == 'Music':
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format(channel['category'], channel['title']))
-            f.write(channel['url'])
+            f.write(str(channel['url']))
         elif channel['category'] == 'Movie':
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format(channel['category'], channel['title']))
-            f.write(channel['url'])
+            f.write(str(channel['url']))
         elif channel['category'] == 'Lifestyle':
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format(channel['category'], channel['title']))
-            f.write(channel['url'])
+            f.write(str(channel['url']))
 
     f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD')
     f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8')
