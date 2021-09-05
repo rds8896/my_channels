@@ -178,7 +178,7 @@ def grab(url):
 
 
 #open youtube file list
-with open('youtube_channel_info.txt') as f:
+with open('../youtube_channel_info.txt') as f:
     for line in f:
         line = line.strip()
         youtube_url = ''
