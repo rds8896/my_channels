@@ -1,5 +1,5 @@
 import requests
-import threading
+import threading,time
 
 headers = {
     'sec-ch-ua': '^\\^Chromium^\\^;v=^\\^92^\\^, ^\\^',
@@ -54,8 +54,10 @@ def zee5(chn):
         'url': z_json}
     channels.append(channel)
 
+
+time.sleep(20)
 i = 0
-while i < len(zee_list)-6:
+while i < len(zee_list):
     print(i)
     try:
         threading.Thread(target=zee5,args=(zee_list[i],)).start()
