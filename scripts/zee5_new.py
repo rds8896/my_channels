@@ -55,14 +55,32 @@ def zee5(chn):
     channels.append(channel)
 
 i = 0
-while i < len(zee_list)-5:
+while i < len(zee_list)-6:
     print(i)
-    threading.Thread(target=zee5,args=(zee_list[i],)).start()
-    threading.Thread(target=zee5,args=(zee_list[i+1],)).start()
-    threading.Thread(target=zee5,args=(zee_list[i+2],)).start()
-    threading.Thread(target=zee5,args=(zee_list[i+3],)).start()
-    threading.Thread(target=zee5,args=(zee_list[i+4],)).start()
-    i=i+5
+    try:
+        threading.Thread(target=zee5,args=(zee_list[i],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+1],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+2],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+3],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+4],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+5],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+6],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+7],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+8],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+9],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+10],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+11],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+12],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+13],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+14],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+15],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+16],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+17],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+18],)).start()
+        threading.Thread(target=zee5,args=(zee_list[i+19],)).start()
+        i+=20
+    except IndexError:
+        break
 #
 #
 # for genre in genres:
