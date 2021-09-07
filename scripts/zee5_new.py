@@ -53,8 +53,16 @@ def zee5(chn):
         'language': chn['languages'][0],
         'url': z_json}
     channels.append(channel)
-for chn in zee_list:
-    threading.Thread(target=zee5,args=(chn,)).start()
+
+i = 0
+while i < len(zee_list)-5:
+    print(i)
+    threading.Thread(target=zee5,args=(zee_list[i],)).start()
+    threading.Thread(target=zee5,args=(zee_list[i+1],)).start()
+    threading.Thread(target=zee5,args=(zee_list[i+2],)).start()
+    threading.Thread(target=zee5,args=(zee_list[i+3],)).start()
+    threading.Thread(target=zee5,args=(zee_list[i+4],)).start()
+    i=i+5
 #
 #
 # for genre in genres:
