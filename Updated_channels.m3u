@@ -18,56 +18,64 @@ https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8053.LifePunjabi.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Music",Waah
 https://xtremecdn.com/v1/uplynk-beta/mxplayer/test/waah/f544866de3e246f69fd064ca6aaf9983.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",Zee 24 Taas
-https://z5ams.akamaized.net/out/v1/915deae3b9024babbe4e35748e296d34/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
-https://z5ams.akamaized.net/punjabi/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",Zee Odisha
-https://z5ams.akamaized.net/kalinga/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",Zee Business
-https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",Zee Hindustan
-https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
+#EXTINF:-1, tvg-logo="" group-title="Music",Tashan Music
+https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8
+#EXTINF:-1, tvg-logo="" group-title="News",News State Uttar Pradesh Uttrakhand
+https://z5ams.akamaized.net/out/v1/0a46fb4f6a8d452a967c909bc03e6f16/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
 #EXTINF:-1, tvg-logo="" group-title="News",News24
-https://z5ams.akamaized.net/out/v1/99ea538e9ce448a88a0cafedfbc1e9f5/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
+https://z5ams.akamaized.net/out/v1/99ea538e9ce448a88a0cafedfbc1e9f5/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Chardikla Time TV
+https://z5ams.akamaized.net/out/v1/1517ec09318443d79185a92fd313b4d0/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee 24 Taas
+https://z5ams.akamaized.net/out/v1/915deae3b9024babbe4e35748e296d34/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee Bihar Jharkhand
+https://z5ams.akamaized.net/biharjharkh/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
 #EXTINF:-1, tvg-logo="" group-title="News",News24
 https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",Samachar Today
 https://m-c010-j2apps.s.llnwi.net/hls/7090.SamacharNews.in.m3u8
+#EXTINF:-1, tvg-logo="" group-title="News",Today24
+https://m-c050-j2apps.s.llnwi.net/hls/8003.Today24.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",Pulse 24 News
 https://m-c050-j2apps.s.llnwi.net/hls/8009.Plus24News.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",Lokmanch News
 https://m-c050-j2apps.s.llnwi.net/hls/8026.LokmanchNews.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",News State Madhya Pradesh Chhattisgarh
-https://z5ams.akamaized.net/out/v1/54e35003dcec446e81d8f7ed283a3571/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",Zee 24 Kalak
-https://z5ams.akamaized.net/kalak/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
-#EXTINF:-1, tvg-logo="" group-title="News",Zee Rajasthan News
-https://z5ams.akamaized.net/rajasthan/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",Zee Bihar Jharkhand
-https://z5ams.akamaized.net/biharjharkh/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",Zee News Uttar Pradesh Uttrakhand
-https://z5ams.akamaized.net/zeenewsupuk/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
 #EXTINF:-1, tvg-logo="" group-title="News",Zee Salaam
-https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
+https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee 24 Kalak
+https://z5ams.akamaized.net/kalak/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
 #EXTINF:-1, tvg-logo="" group-title="News",Zee News
-https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",News Nation
-https://z5ams.akamaized.net/out/v1/9519f4d89ede404fa6b4dc86c616a7ef/index.m3u8?hdnts=st=1631306221~exp=1631309221~acl=/*~hmac=f36852c18e7bb365db88f4664eb90a2ff2ced4bc900147533c9d48cd1443e7b6
-#EXTINF:-1, tvg-logo="" group-title="News",News State Uttar Pradesh Uttrakhand
-https://z5ams.akamaized.net/out/v1/0a46fb4f6a8d452a967c909bc03e6f16/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
+https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee Business
+https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee News Uttar Pradesh Uttrakhand
+https://z5ams.akamaized.net/zeenewsupuk/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
 #EXTINF:-1, tvg-logo="" group-title="News",Polimer News
-https://z5ams.akamaized.net/out/v1/3129ef23898443deab9d4e23034db3a8/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
-#EXTINF:-1, tvg-logo="" group-title="Punjabi",Chardikla Time TV
-https://z5ams.akamaized.net/out/v1/1517ec09318443d79185a92fd313b4d0/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
+https://z5ams.akamaized.net/out/v1/3129ef23898443deab9d4e23034db3a8/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",WION
+https://z5ams.akamaized.net/out/v1/f3bf04506e254324b199b4fdebddf02a/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee Rajasthan News
+https://z5ams.akamaized.net/rajasthan/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",News State Madhya Pradesh Chhattisgarh
+https://z5ams.akamaized.net/out/v1/54e35003dcec446e81d8f7ed283a3571/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee Odisha
+https://z5ams.akamaized.net/kalinga/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee Madhya Pradesh Chhattisgarh
+https://z5ams.akamaized.net/newsmpcg/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",Zee Hindustan
+https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
+https://z5ams.akamaized.net/punjabi/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
+#EXTINF:-1, tvg-logo="" group-title="News",News Nation
+https://z5ams.akamaized.net/out/v1/9519f4d89ede404fa6b4dc86c616a7ef/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
-https://z5ams.akamaized.net/out/v1/9bef4425a4cd4bd7acf3242a3156162d/index.m3u8?hdnts=st=1631306398~exp=1631309398~acl=/*~hmac=f3d796291c3e53cd9da88166dde4a660404dbca1c49f3b938f45bc78ff39d22c
+https://z5ams.akamaized.net/out/v1/9bef4425a4cd4bd7acf3242a3156162d/index.m3u8?hdnts=st=1631317922~exp=1631320922~acl=/*~hmac=c1f65f9e34544ab8df3bf6894d2daf0e183d3aed76184f936e322ba2cf467a4c
 #EXTINF:-1, tvg-logo="" group-title="News",NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631329501/ei/fcg7Yf7aE9SU8wScmpKYCQ/ip/40.71.187.205/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOs9KUxCegFjXFKHQZJFinTa9qthto6kLBrtG0P_2ziKAiEAg73loeF7dJv_V_246DXxBUGIBN5BpeU_ZK9BMw7L8CY%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631341255/ei/Z_Y7YYe0JpHkhgadnJioAQ/ip/40.117.102.15/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOAXdzTHdZpC2qYFYMnZ1TtIwoPf5d2IKJw5wcK1olC0CIFbPGh2S-1cYJOewLOWL93ub6uxLPLUtA9y7VCPcNB8K/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
 None
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",News18 Punjab
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631329502/ei/fsg7YaijDsPdgwP9z6DADQ/ip/40.71.187.205/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVzQt_JkzRWD1n94KgLdZyE_ppl_HSqvoLp3ZU8P_3UYCIQD1SJNBrD-CK_YuGuZayjn4WxIudV3nnHgBOmFqiCWpCA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631341256/ei/aPY7YYbRJcmYhwa83qjoCQ/ip/40.117.102.15/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL2QEG7QRHvhfQMUD4S5ciZ3LE3lVq4rcBT4Xu98_QTwAiBw8p9A84uKgCjij15XfTLquFllXPL7AOBih7olz-hTPQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SAB HD
