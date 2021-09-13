@@ -5,7 +5,7 @@ import threading,time
 channels = []
 zee_list = []
 
-zeeresp = requests.get('https://catalogapi.zee5.com/v1/channel/bygenre?sort_by_field=channel_number&sort_order=ASC&genres=News,Hindi%20Entertainment,Kids,Music,Electro%20Dance%20Music,Entertainment,Movie,Lifestyle,Devotional,Comedy,Drama,Sports,Infotainment,Mythology,Education,Trap,Crime%20&%20Mystery,Sunburn,Indie,Fitness,Live%20Event,Musical,Spiritual,Devotion/Spiritual&country=IN&translation=en&languages=en,hi,pa').json()
+zeeresp = requests.get('https://catalogapi.zee5.com/v1/channel/bygenre?sort_by_field=channel_number&sort_order=ASC&genres=News&country=IN&translation=en&languages=en,hi,pa').json()
 
 for chnl in zeeresp['items']:
     for gen in chnl['items']:
