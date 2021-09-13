@@ -39,7 +39,7 @@ jobs:
       
       - name: Main
         run: |
-           python ./scripts/zee5_new.py
+           python ./scripts/zee5_exclusive.py
           #pwd
           #chmod +x autorun.sh
           #./autorun.sh
