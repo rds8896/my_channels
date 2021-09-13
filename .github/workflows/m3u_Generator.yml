@@ -29,6 +29,17 @@ jobs:
       # Runs a single command using the runners shell
       #- name: Run a one-line script
       #  run: echo testing!
+      
+      # optional, but will help with stability by fixing Python version
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+           python-version: '3.8'
+
+      # this is what causes the error - add before `Main`
+      - name: dependencies
+        run: |
+          python3 -m pip install requests
 
       # Runs a set of commands using the runners shell 
       - name: config
