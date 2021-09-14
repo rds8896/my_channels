@@ -1,6 +1,6 @@
 
 
-with open('./Zee_channel.m3u','w') as f:
+with open('../Zee_channel.m3u','w') as f:
 
     f.write('#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"\n')
 
