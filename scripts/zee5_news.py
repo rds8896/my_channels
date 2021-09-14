@@ -30,7 +30,7 @@ for i in news_id:
     channels.append(channel)
 
 
-with open('Zee5_news.m3u', 'w') as f:
+with open('./m3u/Zee5_news.m3u', 'w') as f:
     f.write('#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"\n')
     for channel in channels:
         f.write('\n')
