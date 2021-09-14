@@ -2,17 +2,30 @@ import requests
 
 channels = []
 
-zeeresp = requests.get('https://catalogapi.zee5.com/v1/channel/bygenre?sort_by_field=channel_number&sort_order=ASC&genres=Movie&country=IN&translation=en&languages=en,hi,pa').json()
+id = ['0-9-zeecinemahd',
+      '0-9-tvpictureshd',
+      '0-9-zeeanmolcinema',
+      '0-9-zeeclassic',
+      '0-9-zeecinema',
+      '0-9-pictures',
+      '0-9-zeeaction',
+      '0-9-privéhd',
+      '0-9-channel_2105335046',
+      '0-9-209']
 
-for zee_channel in zeeresp['items'][0]['items']:
-    id = zee_channel['id']
-    api_url = "https://wispy-mountain-0801.rds8896.workers.dev/?url={}".format(id)
-    json = requests.get(api_url).text
+for i in id:
+    api_url = "https://wispy-mountain-0801.rds8896.workers.dev/?url={}".format(i)
+
+    z_json = requests.get(api_url).text
+
+    chnl_url = 'https://catalogapi.zee5.com/v1/channel/{}'.format(i)
+
+    chn = requests.get(chnl_url).json()
     channel = {
-        'title': zee_channel['title'],
-        'category': zee_channel['genres'][0]['value'],
-        'language': zee_channel['languages'][0],
-        'url': json}
+        'title': chn['title'],
+        'category': chn['genres'][0]['value'],
+        'language': chn['languages'][0],
+        'url': z_json}
     channels.append(channel)
 
     
