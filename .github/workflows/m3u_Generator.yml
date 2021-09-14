@@ -50,7 +50,13 @@ jobs:
       
       - name: Main
         run: |
+           python ./scripts/mx.py
+           python ./scripts/zee5_entertainment.py
+           python ./scripts/zee5_lifestyle.py
+           python ./scripts/zee5_movie.py
+           python ./scripts/zee5_music.py
            python ./scripts/zee5_news.py
+           python ./scripts/zee5_channel.py
           #pwd
           #chmod +x autorun.sh
           #./autorun.sh
