@@ -1,1 +1,10 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
+#EXTINF:-1, tvg-logo="" group-title="Lifestyle",E24
+https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
+#EXTINF:-1, tvg-logo="" group-title="Lifestyle",Zee Zest HD
+https://z5ams.akamaized.net/out/v1/8b3c00846f3040cd84c3f37d9f36ea75/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
+#EXTINF:-1, tvg-logo="" group-title="Lifestyle",Fashion TV Mumbai
+https://z5ams.akamaized.net/out/v1/16305e19e81d4ecd84038c7730df7087/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
+#EXTINF:-1, tvg-logo="" group-title="Lifestyle",Fashion TV Paris
+https://z5ams.akamaized.net/out/v1/c4eb0b04946d4ccdbb5b00459d8eff9e/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503

@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
-https://z5ams.akamaized.net/out/v1/9bef4425a4cd4bd7acf3242a3156162d/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/9bef4425a4cd4bd7acf3242a3156162d/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",Zee News
-https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
-https://z5ams.akamaized.net/out/v1/9519f4d89ede404fa6b4dc86c616a7ef/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/9519f4d89ede404fa6b4dc86c616a7ef/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",Zee Hindustan
-https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
-https://z5ams.akamaized.net/punjabi/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/punjabi/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",Republic Bharat
-https://z5ams.akamaized.net/out/v1/3799c48dc3b141c394517f94fe487e8f/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/3799c48dc3b141c394517f94fe487e8f/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
-https://z5ams.akamaized.net/out/v1/06d2641101e043b88f491359f8b0e4b3/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/06d2641101e043b88f491359f8b0e4b3/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",India Today
-https://z5ams.akamaized.net/out/v1/e564b2ed1f34453ab1ace6de8e15b03d/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/e564b2ed1f34453ab1ace6de8e15b03d/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="News",News24
-https://z5ams.akamaized.net/out/v1/99ea538e9ce448a88a0cafedfbc1e9f5/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/99ea538e9ce448a88a0cafedfbc1e9f5/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",India News Punjabi Himachal
-https://z5ams.akamaized.net/out/v1/ba62fa886ea84964a3f04c85764689ad/index.m3u8?hdnts=st=1631647197~exp=1631650197~acl=/*~hmac=f718c2302ec3115ab2d25df9cef12694e0f4fdc3e2ba6e350df0074d7229b527
+https://z5ams.akamaized.net/out/v1/ba62fa886ea84964a3f04c85764689ad/index.m3u8?hdnts=st=1631649530~exp=1631652530~acl=/*~hmac=42b2f6feac31b8904778803dba4dc0f7d343eaa429903003a5ec443d45158503
