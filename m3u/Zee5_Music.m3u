@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="Music",Zing
-https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Music",9X Jalwa
-https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Music",9XM
-https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Boogle Bollywood
-https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",9X Tashan
-https://z5ams.akamaized.net/out/v1/03022bcf25704dc4a204caad37d256e2/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/out/v1/03022bcf25704dc4a204caad37d256e2/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Music",Non-stop EDM
-https://z5ams.akamaized.net/non_stop_edm/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/non_stop_edm/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Local Vocal | United We Stand
-https://z5ams.akamaized.net/zee5_localvocal/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/zee5_localvocal/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Music",Sounds of ZEE5 - Originals
-https://z5ams.akamaized.net/zee5_originals/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/zee5_originals/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Sounds of ZEE5 - Punjabi Beats
-https://z5ams.akamaized.net/zee5_pabeats/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/zee5_pabeats/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Sounds of ZEE5 - Romance
-https://z5ams.akamaized.net/zee5_romance/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/zee5_romance/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Music",Sounds of ZEE5 - EDM
-https://z5ams.akamaized.net/zee5_edm/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/zee5_edm/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Music",Haryanvi Hits
-https://z5ams.akamaized.net/out/v1/8b07140c372341228b3c423c558124d2/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/out/v1/8b07140c372341228b3c423c558124d2/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Wah Punjabi
-https://z5ams.akamaized.net/out/v1/1e4517e52c924dacbffeacd22acf5b29/index.m3u8?hdnts=st=1631663266~exp=1631666266~acl=/*~hmac=49f0372f33d49027ff1cf7d2a58b5d91f8ffde3c4245ed114820e8b417fe08e6
+https://z5ams.akamaized.net/out/v1/1e4517e52c924dacbffeacd22acf5b29/index.m3u8?hdnts=st=1631684112~exp=1631687112~acl=/*~hmac=23458ace74872488d3690cfdb37548ea570b89652e119885cc91f0f30c4fe8e5
