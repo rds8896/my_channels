@@ -1,99 +1,99 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Big Magic
-https://z5ams.akamaized.net/bigmagic/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/bigmagic/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee TV HD
-https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",&TV HD
-https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee Anmol
-https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjabi
-https://z5ams.akamaized.net/zeepunjabi/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zeepunjabi/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Boogle Bollywood
-https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee TV
-https://z5ams.akamaized.net/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",DD Punjabi
-https://z5ams.akamaized.net/out/v1/cb5ed335638a4363905eb459ae44e5fb/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/cb5ed335638a4363905eb459ae44e5fb/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee Classic
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",DD National HD
-https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
-https://z5ams.akamaized.net/out/v1/9bef4425a4cd4bd7acf3242a3156162d/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-aajtak
 #EXTINF:-1, tvg-logo="" group-title="News",Zee News
-https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-zeenews
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
-https://z5ams.akamaized.net/out/v1/9519f4d89ede404fa6b4dc86c616a7ef/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-170
 #EXTINF:-1, tvg-logo="" group-title="News",Zee Hindustan
-https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-zeehindustan
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
-https://z5ams.akamaized.net/punjabi/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-zeepunjabharyanahima
 #EXTINF:-1, tvg-logo="" group-title="News",Republic Bharat
-https://z5ams.akamaized.net/out/v1/3799c48dc3b141c394517f94fe487e8f/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-162
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
-https://z5ams.akamaized.net/out/v1/06d2641101e043b88f491359f8b0e4b3/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-282
 #EXTINF:-1, tvg-logo="" group-title="News",India Today
-https://z5ams.akamaized.net/out/v1/e564b2ed1f34453ab1ace6de8e15b03d/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-indiatoday
 #EXTINF:-1, tvg-logo="" group-title="News",News24
-https://z5ams.akamaized.net/out/v1/99ea538e9ce448a88a0cafedfbc1e9f5/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-206
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",India News Punjabi Himachal
-https://z5ams.akamaized.net/out/v1/ba62fa886ea84964a3f04c85764689ad/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://zee5-rds.herokuapp.com/?c=0-9-274
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",E24
-https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Zee Zest HD
-https://z5ams.akamaized.net/out/v1/8b3c00846f3040cd84c3f37d9f36ea75/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/8b3c00846f3040cd84c3f37d9f36ea75/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Fashion TV Mumbai
-https://z5ams.akamaized.net/out/v1/16305e19e81d4ecd84038c7730df7087/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/16305e19e81d4ecd84038c7730df7087/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Fashion TV Paris
-https://z5ams.akamaized.net/out/v1/c4eb0b04946d4ccdbb5b00459d8eff9e/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/c4eb0b04946d4ccdbb5b00459d8eff9e/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Cinema HD
-https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",&Pictures HD
-https://z5ams.akamaized.net/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Anmol Cinema
-https://z5ams.akamaized.net/zanmolcnm/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zanmolcnm/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Bollywood
-https://z5ams.akamaized.net/classic/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/classic/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Cinema
-https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",&Pictures
-https://z5ams.akamaized.net/andpicssd/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/andpicssd/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Action
-https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",&Prive HD
-https://z5ams.akamaized.net/andprivehd/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/andprivehd/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",&flix HD
-https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Movie",&xplorHD
-https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Music",Zing
-https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Music",9X Jalwa
-https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Music",9XM
-https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Boogle Bollywood
-https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",9X Tashan
-https://z5ams.akamaized.net/out/v1/03022bcf25704dc4a204caad37d256e2/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/03022bcf25704dc4a204caad37d256e2/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Music",Non-stop EDM
-https://z5ams.akamaized.net/non_stop_edm/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/non_stop_edm/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Local Vocal | United We Stand
-https://z5ams.akamaized.net/zee5_localvocal/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zee5_localvocal/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Music",Sounds of ZEE5 - Originals
-https://z5ams.akamaized.net/zee5_originals/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zee5_originals/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Sounds of ZEE5 - Punjabi Beats
-https://z5ams.akamaized.net/zee5_pabeats/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zee5_pabeats/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Sounds of ZEE5 - Romance
-https://z5ams.akamaized.net/zee5_romance/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zee5_romance/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Music",Sounds of ZEE5 - EDM
-https://z5ams.akamaized.net/zee5_edm/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/zee5_edm/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Music",Haryanvi Hits
-https://z5ams.akamaized.net/out/v1/8b07140c372341228b3c423c558124d2/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/8b07140c372341228b3c423c558124d2/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Wah Punjabi
-https://z5ams.akamaized.net/out/v1/1e4517e52c924dacbffeacd22acf5b29/index.m3u8?hdnts=st=1631806775~exp=1631809775~acl=/*~hmac=3e05c43c9c931bb194767f44106c38f898b0207f6568b64c849feb4aab16817d
+https://z5ams.akamaized.net/out/v1/1e4517e52c924dacbffeacd22acf5b29/index.m3u8?hdnts=st=1631807932~exp=1631810932~acl=/*~hmac=653f5c61149305fea720100e0a7a72d560e2b64a50f747bfbc0d28f87b8b8725
 #EXTINF:-1, tvg-logo="" group-title="News",News24
 https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Movie",Movie Plus
@@ -127,11 +127,11 @@ https://m-c04-j2apps.s.llnwi.net/hls/8037.DPKNews.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Real Life
 https://m-c049-j2apps.s.llnwi.net/hls/8082.RealLife.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631830060/ei/zGtDYcuGOKiF_9EPl_yqoAQ/ip/52.179.127.91/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJ0gyT6BkeikW167w2WjICCY6DHXLRhDStBIMIYyOfNECIQDhgubuDECjk8EgSBAuZVNA-cQmG6NwPu2tIMZgaNLQGA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631831029/ei/lW9DYY2oHszj8gT94quACg/ip/52.168.20.191/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/tx/24047102/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCsH1b967y9TajLUOWBeMJdKPO-VDHlXXlZ6cYelpr0UCIETk6rFUKfMnErYBdw9K-sIvu7v8NdzP715jAOlM139q/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
 None
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",News18 Punjab
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631830061/ei/zWtDYcu1NeuXhwa5_JzgAw/ip/52.179.127.91/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/tx/24064674/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW0LP0zqDJH7soEUc-KuhrTWUtPggvHyXgTqdDXyBgBwCIFFIyX2JSXfvXAcs5cS03LVNa1-OjV1OchmgXMorxPzC/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631831030/ei/lm9DYanvJsi18wSy_YK4Dw/ip/52.168.20.191/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCiGZLMcyGII9-xaly_cGlcuA7PhCfAnRNynAwHoVLagCIQDPmZBwH1qv6gcCnMKbmSig6D-PKEZ7X7SDgsslatYUGw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SAB HD
