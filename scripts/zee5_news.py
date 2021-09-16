@@ -15,9 +15,9 @@ news_id = ['0-9-aajtak',
 
 
 for i in news_id:
-    api_url = "https://wispy-mountain-0801.rds8896.workers.dev/?url={}".format(i)
+    api_url = "https://zee5-rds.herokuapp.com/?c={}".format(i)
 
-    z_json = requests.get(api_url).text
+    #z_json = requests.get(api_url).text
 
     chnl_url = 'https://catalogapi.zee5.com/v1/channel/{}'.format(i)
 
@@ -26,7 +26,7 @@ for i in news_id:
         'title': chn['title'],
         'category': chn['genres'][0]['value'],
         'language': chn['languages'][0],
-        'url': z_json}
+        'url': api_url}
     channels.append(channel)
 
 
