@@ -4,8 +4,6 @@
 https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Movie",Movie Plus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Music",Showbox
-https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Movie",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Cars and stars
@@ -32,16 +30,14 @@ https://dai.google.com/linear/hls/event/lU3bZozERf2TZ7My9CfYsg/master.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Music",Tashan Music
 https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",DPK News
-https://m-c04-j2apps.s.llnwi.net/hls/8037.DPKNews.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Real Life
 https://m-c049-j2apps.s.llnwi.net/hls/8082.RealLife.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631946421/ei/VTJFYcvSE8njkgavj5XIBw/ip/20.106.98.35/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIGugWxGXjpMd901J5eObw1DNUnvNV1IwWi_KZRspWkrAiB6AAktOdlHfOE4laBakJmmAtiA2vodu_K_b3y4wvGTBQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631966965/ei/lYJFYcvoCuGAsfIP1NSPqAg/ip/20.38.174.186/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/tx/24027931/txs/24027931%2C24027932/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNoFVbrntLqMGIMdm50UM_2loSqTzmBCTRjZ_LoSH8vgCIDnhVnaHZ-Pap1CdvXAy8CJJWP5pICU_62nIXm2w7yNr/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
 None
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",News18 Punjab
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631946422/ei/VjJFYb60ENf-kgbcvIjABg/ip/20.106.98.35/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/tx/24027701/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY6w7_ysNbbE_hSj3M1Feth3setj7096JA525KLPYtwICIDN8Lf6Rm6BO7dALb5TlvMQi3RPEI1Z5Ga1Onutp3sEI/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631966966/ei/loJFYaznB5PIkwbYrJ2QBQ/ip/20.38.174.186/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTkHJz2uNZMpUJyQEqJDc4Y68FeFz3jndDnCitTnQBBcCIEd0SKioojdVrSmqOD_flwyxoeJDxyzDZ0vdORmzU8LF/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SAB HD
