@@ -158,6 +158,12 @@ with open('./m3u/mx_sony.m3u', 'w') as f:
 
     f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD')
     f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8')
+    f.write('\n#EXTINF:-1 tvg-logo="" group-title="Punjabi",PTC Punjabi')
+    f.write('\nhttps://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8')
+    f.write('\n#EXTINF:-1 tvg-logo="" group-title="Punjabi",PTC Punjabi Gold')
+    f.write('\nhttps://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8')
+    f.write('\n#EXTINF:-1 tvg-logo="" group-title="Punjabi",Punjabi Zindabad')
+    f.write('\nhttp://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8')
     f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SAB HD')
     f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8')
     f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL')
