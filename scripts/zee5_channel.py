@@ -43,3 +43,17 @@ with open('./Zee_channel.m3u','w') as f:
                 continue
             else:
                 f.write(line)
+                
+    with open('./m3u/sony.m3u') as file:
+        for line in file:
+            if 'EXTM3U' in line:
+                continue
+            else:
+                f.write(line)
+                
+    with open('./m3u/punjabi.m3u') as file:
+        for line in file:
+            if 'EXTM3U' in line:
+                continue
+            else:
+                f.write(line)
