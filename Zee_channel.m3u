@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Big Magic
-https://z5ams.akamaized.net/bigmagic/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-bigmagic_1786965389
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee TV HD
-https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-zeetvhd
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",&TV HD
-https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-tvhd_0
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee Anmol
-https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-zeeanmol
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjabi
-https://z5ams.akamaized.net/zeepunjabi/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-215
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Boogle Bollywood
-https://z5ams.akamaized.net/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-165
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee TV
-https://z5ams.akamaized.net/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-zeetv
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",DD Punjabi
-https://z5ams.akamaized.net/out/v1/cb5ed335638a4363905eb459ae44e5fb/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-ddpunjabi
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee Classic
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-176
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",DD National HD
-https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8?hdnts=st=1631807641~exp=1631810641~acl=/*~hmac=a609758193e136d4961158e5191922578de95215417352fa5f439169f9a4903c
+https://zee5-rds.herokuapp.com/?c=0-9-250
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
 https://zee5-rds.herokuapp.com/?c=0-9-aajtak
 #EXTINF:-1, tvg-logo="" group-title="News",Zee News
@@ -180,3 +180,77 @@ http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241498
 http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241497
 #EXTINF:-1 tvg-id="" tvg-name="1sports" tvg-logo="" group-title="Sports",1sports
 http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241496
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movie",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Movie",SONY MAX
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Movie",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movie",SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movie",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR Sports 1 HD" tvg-logo="" group-title="Sports",STAR Sports 1 HD
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241506
+#EXTINF:-1 tvg-id="" tvg-name="STAR Sports 2 HD" tvg-logo="" group-title="Sports",STAR Sports 2 HD
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241505
+#EXTINF:-1 tvg-id="" tvg-name="STAR Sports Select 1 HD" tvg-logo="" group-title="Sports",STAR Sports Select 1 HD
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241504
+#EXTINF:-1 tvg-id="" tvg-name="STAR Sports Select 2 HD" tvg-logo="" group-title="Sports",STAR Sports Select 2 HD
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241503
+#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241499
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="" group-title="Sports",Eurosport HD
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241498
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="" group-title="Sports",Eurosport
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241497
+#EXTINF:-1 tvg-id="" tvg-name="1sports" tvg-logo="" group-title="Sports",1sports
+http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241496
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Colors HD
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Rishtey
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Rishtey&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Rishtey_Cineplex
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",B4U_Movies
+http://103.217.221.64/snehjiotv/snehjioo.php?c=B4U_Movies&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movie",Enterr_10
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Enterr_10&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Zing
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Zing&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",5aabtv
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",Boggle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",World Punjabi
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",Bassi Show
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",MH1
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",MH1 News
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",PTC Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",PTC Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Punjabi",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
