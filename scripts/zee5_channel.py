@@ -37,7 +37,7 @@ with open('./Zee_channel.m3u','w') as f:
             else:
                 f.write(line)
 
-    with open('./m3u/mx_sony.m3u') as file:
+    with open('./m3u/mx.m3u') as file:
         for line in file:
             if 'EXTM3U' in line:
                 continue
