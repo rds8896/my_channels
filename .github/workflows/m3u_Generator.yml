@@ -51,6 +51,7 @@ jobs:
       - name: Main
         run: |
            python ./scripts/mx.py
+           python ./scripts/sony.py
            python ./scripts/zee5_entertainment.py
            python ./scripts/zee5_lifestyle.py
            python ./scripts/zee5_movie.py
