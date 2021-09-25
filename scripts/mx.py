@@ -137,7 +137,7 @@ with open('youtube_channel_info.txt') as f:
 ## github
 
 
-with open('mx_sony.m3u', 'w') as f:
+with open('./m3u/mx.m3u', 'w') as f:
     f.write('#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"\n')
     for channel in channels:
         f.write('\n')
