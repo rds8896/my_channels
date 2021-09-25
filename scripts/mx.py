@@ -9,6 +9,8 @@ mx_json = requests.get(mx_link).json()
 
 mx_channel_list = mx_json['channels']
 
+mx_final_list = []
+
 delete_channels = ['NewsX',
                    'India News UP',
                    'Gulistan News',
@@ -56,27 +58,29 @@ delete_channels = ['NewsX',
                    'News24 MP CG',
                    'News State Uttar Pradesh Uttrakhand',
                    'News State Madhya Pradesh Chhattisgarh',
-                   ]
+                   'Surya Cinema',
+                    'Samachar Today',
+                    'Today24',
+                    'Pulse 24 News',
+                    'DPK News']
 
 for i in mx_channel_list:
-
     lang = i['languages']
+    if i['title'] not in delete_channels and (i['category'] == 'Music' or i['category'] == 'News' or i['category'] == 'Movies' or i['category'] == 'Lifestyle') and (lang[0]['name'] == 'Hindi' or lang[0]['name'] == 'English' or lang[0]['name'] == 'Punjabi' ):
+        mx_final_list.append(i)
 
+for i in mx_final_list:
 
-    if  (i['category'] == 'Music' or i['category'] == 'News' or i['category'] == 'Movies' or i['category'] == 'Lifestyle') and (lang[0]['name'] == 'Hindi' or lang[0]['name'] == 'English' or lang[0]['name'] == 'Punjabi' ):
-        if i['category'] == 'Movies':
-            mx_cat = 'Movie'
-        else:
-            mx_cat = i['category']
-        if i['title'] in delete_channels:
-            continue
-        else:
-            channel = {
+    if i['category'] == 'Movies':
+        mx_cat = 'Movie'
+    else:
+        mx_cat = i['category']
+    channel = {
                     'title':  i['title'],
                     'category' :  mx_cat,
                     'language' : lang[0]['id'],
                     'url' : i['stream']['mxplay']['hls']['main'] }
-            channels.append(channel)
+    channels.append(channel)
 
 #### youtube live tv
 
@@ -133,7 +137,7 @@ with open('youtube_channel_info.txt') as f:
 ## github
 
 
-with open('./m3u/mx_sony.m3u', 'w') as f:
+with open('mx_sony.m3u', 'w') as f:
     f.write('#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"\n')
     for channel in channels:
         f.write('\n')
@@ -156,49 +160,4 @@ with open('./m3u/mx_sony.m3u', 'w') as f:
             f.write('#EXTINF:-1, tvg-logo="" group-title="{}",{}\n'.format(channel['category'], channel['title']))
             f.write(str(channel['url']))
 
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="" group-title="Punjabi",PTC Punjabi')
-    f.write('\nhttps://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="" group-title="Punjabi",PTC Punjabi Gold')
-    f.write('\nhttps://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="" group-title="Punjabi",Punjabi Zindabad')
-    f.write('\nhttp://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",SAB HD')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movie",SONY MAX HD')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Movie",SONY MAX')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Movie",SONY WAH')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movie",SONY MAX2')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movie",SONY PIX HD')
-    f.write('\nhttps://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",SONY SIX HD')
-    f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD')
-    f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD')
-    f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD')
-    f.write('\nhttps://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="STAR Sports 1 HD" tvg-logo="" group-title="Sports",STAR Sports 1 HD')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241506')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="STAR Sports 2 HD" tvg-logo="" group-title="Sports",STAR Sports 2 HD')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241505')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="STAR Sports Select 1 HD" tvg-logo="" group-title="Sports",STAR Sports Select 1 HD')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241504')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="STAR Sports Select 2 HD" tvg-logo="" group-title="Sports",STAR Sports Select 2 HD')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241503')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241499')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="" group-title="Sports",Eurosport HD')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241498')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="" group-title="Sports",Eurosport')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241497')
-    f.write('\n#EXTINF:-1 tvg-id="" tvg-name="1sports" tvg-logo="" group-title="Sports",1sports')
-    f.write('\nhttp://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241496')
+
