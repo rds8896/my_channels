@@ -41,14 +41,14 @@ http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241497
 #EXTINF:-1 tvg-id="" tvg-name="1sports" tvg-logo="" group-title="Sports",1sports
 http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/241496
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Colors HD
-http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=.m3u8
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Rishtey
 http://103.217.221.64/snehjiotv/snehjioo.php?c=Rishtey&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie",Rishtey_Cineplex
-http://103.217.221.64/snehjiotv/snehjioo.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie",B4U_Movies
-http://103.217.221.64/snehjiotv/snehjioo.php?c=B4U_Movies&q=800&e=.m3u8
+http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie",Enterr_10
-http://103.217.221.64/snehjiotv/snehjioo.php?c=Enterr_10&q=800&e=.m3u8
+https://idvd.multitvsolution.com/idvo/enter10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Zing
-http://103.217.221.64/snehjiotv/snehjioo.php?c=Zing&q=800&e=.m3u8
+http://173.199.120.51/hls/zing.m3u8
