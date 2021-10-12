@@ -65,9 +65,12 @@ delete_channels = ['NewsX',
                     'DPK News']
 
 for i in mx_channel_list:
-    lang = i['languages']
-    if i['title'] not in delete_channels and (i['category'] == 'Music' or i['category'] == 'News' or i['category'] == 'Movies' or i['category'] == 'Lifestyle') and (lang[0]['name'] == 'Hindi' or lang[0]['name'] == 'English' or lang[0]['name'] == 'Punjabi' ):
-        mx_final_list.append(i)
+    try:
+        lang = i['languages']
+        if i['title'] not in delete_channels and (i['category'] == 'Music' or i['category'] == 'News' or i['category'] == 'Movies' or i['category'] == 'Lifestyle') and (lang[0]['name'] == 'Hindi' or lang[0]['name'] == 'English' or lang[0]['name'] == 'Punjabi' ):
+            mx_final_list.append(i)
+    except IndexError:
+        continue
 
 for i in mx_final_list:
 
