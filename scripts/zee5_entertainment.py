@@ -1,4 +1,4 @@
-import requests
+import requests,time
 
 channels = []
 
@@ -17,17 +17,18 @@ entertainment_id = ['0-9-bigmagic_1786965389',
 for i in entertainment_id:
     api_url = "https://zee5-rds.herokuapp.com/?c={}".format(i)
 
-    # z_json = requests.get(api_url).text
+    #z_json = requests.get(api_url, timeout=(2,5)).status_code
 
     chnl_url = 'https://catalogapi.zee5.com/v1/channel/{}'.format(i)
 
     chn = requests.get(chnl_url).json()
-    channel = {
-        'title': chn['title'],
-        'category': chn['genres'][0]['value'],
-        'language': chn['languages'][0],
-        'url': api_url}
-    channels.append(channel)
+    if "message" not in chn:
+        channel = {
+            'title': chn['title'],
+            'category': chn['genres'][0]['value'],
+            'language': chn['languages'][0],
+            'url': api_url}
+        channels.append(channel)
 
 
 with open('./m3u/Zee5_Entertainment.m3u', 'w') as f:

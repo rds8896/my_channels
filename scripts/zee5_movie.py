@@ -21,12 +21,13 @@ for i in id:
     chnl_url = 'https://catalogapi.zee5.com/v1/channel/{}'.format(i)
 
     chn = requests.get(chnl_url).json()
-    channel = {
-        'title': chn['title'],
-        'category': chn['genres'][0]['value'],
-        'language': chn['languages'][0],
-        'url': api_url}
-    channels.append(channel)
+    if "message" not in chn:
+        channel = {
+            'title': chn['title'],
+            'category': chn['genres'][0]['value'],
+            'language': chn['languages'][0],
+            'url': api_url}
+        channels.append(channel)
 
     
 with open('./m3u/Zee5_Movie.m3u', 'w') as f:
