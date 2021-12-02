@@ -16,7 +16,7 @@ https://zee5-rds.herokuapp.com/?c=0-9-165
 https://zee5-rds.herokuapp.com/?c=0-9-zeetv
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",DD Punjabi
 https://zee5-rds.herokuapp.com/?c=0-9-ddpunjabi
-#EXTINF:-1, tvg-logo="" group-title="Movie",Zee Classic
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee Classic
 https://zee5-rds.herokuapp.com/?c=0-9-176
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",DD National HD
 https://zee5-rds.herokuapp.com/?c=0-9-250
