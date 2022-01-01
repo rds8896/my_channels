@@ -2,18 +2,10 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Music",Zing
 https://zee5-rds.herokuapp.com/?c=0-9-zing
-#EXTINF:-1, tvg-logo="" group-title="Music",9X Jalwa
-https://zee5-rds.herokuapp.com/?c=0-9-133
-#EXTINF:-1, tvg-logo="" group-title="Music",9XM
-https://zee5-rds.herokuapp.com/?c=0-9-131
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Boogle Bollywood
 https://zee5-rds.herokuapp.com/?c=0-9-165
-#EXTINF:-1, tvg-logo="" group-title="Punjabi",9X Tashan
-https://zee5-rds.herokuapp.com/?c=0-9-132
 #EXTINF:-1, tvg-logo="" group-title="Music",Non-stop EDM
 https://zee5-rds.herokuapp.com/?c=0-9-296
-#EXTINF:-1, tvg-logo="" group-title="Punjabi",Local Vocal | United We Stand
-https://zee5-rds.herokuapp.com/?c=0-9-298
 #EXTINF:-1, tvg-logo="" group-title="Music",Haryanvi Hits
 https://zee5-rds.herokuapp.com/?c=0-9-375
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Wah Punjabi
