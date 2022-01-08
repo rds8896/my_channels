@@ -18,3 +18,5 @@ https://zee5-rds.herokuapp.com/?c=0-9-zeetv
 https://zee5-rds.herokuapp.com/?c=0-9-ddpunjabi
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Classic
 https://zee5-rds.herokuapp.com/?c=0-9-176
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",DD National HD
+https://zee5-rds.herokuapp.com/?c=0-9-250
