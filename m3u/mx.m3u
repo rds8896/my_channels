@@ -1,52 +1,54 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1, tvg-logo="" group-title="News",News24
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",News24
 https://m-c04-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",Sahara Samay
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Sahara Samay
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",Sahara Samay Bihar Jharkhand
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Sahara Samay Bihar Jharkhand
 https://m-c02-j2apps.s.llnwi.net/hls/0185.SamayBiharJharkhand.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",Har Khabar
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Har Khabar
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Movie",Movie Plus
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Movie Plus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Lifestyle",Outdoor Lifestyle
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Outdoor Lifestyle
 https://simultv.s.llnwi.net/o034/bonnier247/ngrp:bonnier247_simul/playlist.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Music",Waah
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Waah
 https://xtremecdn.com/v1/uplynk-beta/mxplayer/test/waah/f544866de3e246f69fd064ca6aaf9983.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",Lokmanch News
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Lokmanch News
 https://m-c28-j2apps.s.llnwi.net/hls/8026.LokmanchNews.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Lifestyle",Insight TV
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Insight TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8?app_bundle=com.innovation.mxplayer_8064.InsightTV.in&app_name=MXPlayer&app_store_url=https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&genre=GD&coppa=Kids&iab=IAB1-7
-#EXTINF:-1, tvg-logo="" group-title="Movie",Tashan Entertainment
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Tashan Entertainment
 https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Music",Tashan Music
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Tashan Music
 https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Movie",Hiff Movies
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Hiff Movies
 https://m-c28-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",Anaadi TV
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Anaadi TV
 https://m-c28-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Music",ABZY Cool
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",ABZY Cool
 https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Movie",ABZY Movies
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",ABZY Movies
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Movie",ABZY Dhakad
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",ABZY Dhakad
 https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="News",National News Live
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",National News Live
 https://m-c09-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Music",Punjabi Plus TV
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Punjabi Plus TV
 https://m-c09-j2apps.s.llnwi.net/hls/8073.PunjabiPlusTV.in.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Punjabi",Hamdard TV
+https://m-c010-j2apps.s.llnwi.net/hls/8077.HamdardTV.in.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644215598/ei/zmgAYva9AcSSkgaWkZPgDQ/ip/23.99.95.134/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/tx/24129504/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM9P8LDDddJ6nZ9oqDLFMA4EnsQy9K_dPHTbYEwxqQm1AiEAhSqTAXYTdO00vVTc0byP3BHkwO_0vBckAlzDl-uFhZQ%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644235894/ei/FrgAYvy2D8uSkwbn2ZqgCw/ip/20.106.91.215/id/MN8p-Vrn6G0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIFypElxT04Yt2asIGTuDKxvvtc0zUfKMrpwJmiYwaf4AiEAx_ReSCVZv_IknSMsCMY91OZRRJGsoAwIc_wuu_kITFU%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",News18
 None
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644215600/ei/0GgAYtXoDq6BsfIPvcKB4Aw/ip/23.99.95.134/id/Xmm3Kr5P1Uw.5/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJwrx8fP7pBh4_kfshw385rw30yMH3M1tlC6LULcDwHJAiBT5zZhSD_2T8USCkPs50Sai6DUK9UtfzmU0j939E1i4A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644235895/ei/F7gAYrqKCZO6kwa126LQDA/ip/20.106.91.215/id/Xmm3Kr5P1Uw.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEoUYjK6WTqq6eFXDZP6Y4faIPQrzVH3Il7vwwdTigogCIG89NdU9edGabh8bCiULS1mVegbjoJt6R8BR4Ra-VRlt/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
 None
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",News18 Punjab
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644215603/ei/02gAYrb1Ds7xkgannLSAAQ/ip/23.99.95.134/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOwifehA88hDired_qMaY6hXkOSEkD468xWXkZutNoasCIA9u3SV5NIdphwZXbzQyCL5ygayg3FUYfzjestc6g_c0/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644235897/ei/GbgAYuSaAsyCkgae6LLADQ/ip/20.106.91.215/id/_W5UfJQDv2Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPjw3Javcd1u-qinsDAlSmHKbUEO6pLg9Nc9sH-wQxh3AiEAvezzdPLQUlIwA5W1ARVLO35wLkc5vt41UQXr63DaUPc%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",AajTak
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644215603/ei/02gAYsf8MI-DkwaVoJaAAw/ip/23.99.95.134/id/Cy_6-_XUW-c.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQNAkFj5u0KH3PzIeHYNxdk3of1eFG-Aya6C5mmugkVcCIQDzoUn_PTb6Pz56Sq9cU1f7Bph-Rl3v2DoEvyppYs2Tcw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644235897/ei/GbgAYsbgG4uFkgaNsY_QCA/ip/20.106.91.215/id/Cy_6-_XUW-c.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJN-CEngcMNOEeOcK10d8HaobhNC1WjZk8Lb6GAqJtyJAiEAgNfAaPuEvhBVC6lq8JJQi8-_u4NsMJYcAPTZXGaFni8%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",ZeeNews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644215604/ei/1GgAYtTKD8qCsfIP8--M4Ag/ip/23.99.95.134/id/pXTvorHxThQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886202/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALZDy70QfLm3Xp1eweTb4PAJhIZamvPahdeNham-1Ad7AiBYnXZPYCIBuKHmBh17CM2Is8b_Z0q27GNCe0C_VjlZsw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644235897/ei/GbgAYuaYNs7IkgaakYy4AQ/ip/20.106.91.215/id/pXTvorHxThQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWjiOI5RVtv0a3j1Sy_bVbF9ShhH2y-7C5GUxV_5m0b4CIEoJUj7egWdvZ4P9hmH9-YbEy_VPc3AVUr_tAX5gMHzW/file/index.m3u8
