@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Big Magic
-https://zee5-rds.herokuapp.com/?c=0-9-bigmagic_1786965389
+https://zee5-api1.herokuapp.com/url/?c=0-9-bigmagic_1786965389
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee TV HD
-https://zee5-rds.herokuapp.com/?c=0-9-zeetvhd
+https://zee5-api1.herokuapp.com/url/?c=0-9-zeetvhd
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",&TV HD
 https://zee5-rds.herokuapp.com/?c=0-9-tvhd_0
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Zee Anmol
