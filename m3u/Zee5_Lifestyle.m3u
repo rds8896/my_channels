@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
+#EXTINF:-1, tvg-logo="" group-title="Lifestyle",E24
+https://zee5-rds.herokuapp.com/?c=0-9-207
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Zee Zest HD
 https://zee5-rds.herokuapp.com/?c=0-9-348
 #EXTINF:-1, tvg-logo="" group-title="Lifestyle",Fashion TV Mumbai

@@ -10,9 +10,13 @@ https://zee5-rds.herokuapp.com/?c=0-9-170
 https://zee5-rds.herokuapp.com/?c=0-9-zeehindustan
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
 https://zee5-rds.herokuapp.com/?c=0-9-zeepunjabharyanahima
+#EXTINF:-1, tvg-logo="" group-title="News",Republic Bharat
+https://zee5-rds.herokuapp.com/?c=0-9-162
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
 https://zee5-rds.herokuapp.com/?c=0-9-282
 #EXTINF:-1, tvg-logo="" group-title="News",India Today
 https://zee5-rds.herokuapp.com/?c=0-9-indiatoday
+#EXTINF:-1, tvg-logo="" group-title="News",News24
+https://zee5-rds.herokuapp.com/?c=0-9-206
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",India News Punjabi Himachal
 https://zee5-rds.herokuapp.com/?c=0-9-274
