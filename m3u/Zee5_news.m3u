@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
+#EXTINF:-1, tvg-logo="" group-title="News",UP में 361 नए कोरोना मरीज मिलने से हड़कंप
 https://zee5-rds.herokuapp.com/?c=0-9-aajtak
-#EXTINF:-1, tvg-logo="" group-title="News",Zee News
+#EXTINF:-1, tvg-logo="" group-title="News",दिल्ली: आज ओखला में चलेगा बुल्डोजर
 https://zee5-rds.herokuapp.com/?c=0-9-zeenews
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
 https://zee5-rds.herokuapp.com/?c=0-9-170
@@ -12,7 +12,7 @@ https://zee5-rds.herokuapp.com/?c=0-9-zeehindustan
 https://zee5-rds.herokuapp.com/?c=0-9-zeepunjabharyanahima
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
 https://zee5-rds.herokuapp.com/?c=0-9-282
-#EXTINF:-1, tvg-logo="" group-title="News",India Today
+#EXTINF:-1, tvg-logo="" group-title="News",Delhi hospitals ready themselves for COVID
 https://zee5-rds.herokuapp.com/?c=0-9-indiatoday
 #EXTINF:-1, tvg-logo="" group-title="News",News24
 https://zee5-rds.herokuapp.com/?c=0-9-206
