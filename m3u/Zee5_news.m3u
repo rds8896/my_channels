@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1, tvg-logo="" group-title="News",UP में 361 नए कोरोना मरीज मिलने से हड़कंप
+#EXTINF:-1, tvg-logo="" group-title="News",लौट के बग्गा दिल्ली आए !
 https://zee5-rds.herokuapp.com/?c=0-9-aajtak
 #EXTINF:-1, tvg-logo="" group-title="News",दिल्ली: आज ओखला में चलेगा बुल्डोजर
 https://zee5-rds.herokuapp.com/?c=0-9-zeenews
