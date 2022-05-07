@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1, tvg-logo="" group-title="News",बग्गा पर आज सुनवाई, सियासत गर्म
+#EXTINF:-1, tvg-logo="" group-title="News",एक और झटका: आज से घरेलू गैस सिलेंडर ₹50 महंगा 
 https://zee5-rds.herokuapp.com/?c=0-9-aajtak
-#EXTINF:-1, tvg-logo="" group-title="News",कोरोना बेकाबू, दिल्ली में 21% केस बढ़े
+#EXTINF:-1, tvg-logo="" group-title="News",इंदौर अग्निकांड: 7 जिंदा जले, मथुरा सड़क हादसा, 7 की मौत
 https://zee5-rds.herokuapp.com/?c=0-9-zeenews
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
 https://zee5-rds.herokuapp.com/?c=0-9-170
