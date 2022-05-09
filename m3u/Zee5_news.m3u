@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1, tvg-logo="" group-title="News",शाहीन बाग: हाई वोल्टेज ड्रामा, बुल्डोजर पर बैठे लोग
+#EXTINF:-1, tvg-logo="" group-title="News",शाहीन बाग पर सुनवाई नहीं करेगा SC
 https://zee5-rds.herokuapp.com/?c=0-9-aajtak
 #EXTINF:-1, tvg-logo="" group-title="News",शाहीन बाग: अतिक्रमण के खिलाफ कार्रवाई से SC नाराज 
 https://zee5-rds.herokuapp.com/?c=0-9-zeenews
