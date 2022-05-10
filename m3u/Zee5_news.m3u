@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1, tvg-logo="" group-title="News",बड़ा ऐलान: अगली बार देश में होगी ई-जनगणना 
+#EXTINF:-1, tvg-logo="" group-title="News",श्रीलंका: पूरे देश में लगा कर्फ्यू, अराजकता 
 https://zee5-rds.herokuapp.com/?c=0-9-aajtak
-#EXTINF:-1, tvg-logo="" group-title="News",कोरोना: UP में फिर लौटेगा मास्क, गाजियाबाद में नाइट कर्फ्यू के आसार 
+#EXTINF:-1, tvg-logo="" group-title="News",पंजाब पुलिस भवन पर रॉकेट हमला, केंद्र सतर्क
 https://zee5-rds.herokuapp.com/?c=0-9-zeenews
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
 https://zee5-rds.herokuapp.com/?c=0-9-170
