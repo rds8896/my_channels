@@ -55,6 +55,9 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 https://idvd.multitvsolution.com/idvo/enter10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Zing
 http://173.199.120.51/hls/zing.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",India TV
+https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",ABP News
