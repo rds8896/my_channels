@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="News",Aaj Tak
-https://zee5-rds.herokuapp.com/?c=0-9-aajtak
+http://localhost:8080/playzee.php?c=0-9-aajtak
 #EXTINF:-1, tvg-logo="" group-title="News",Zee News
-https://zee5-rds.herokuapp.com/?c=0-9-zeenews
+http://localhost:8080/playzee.php?c=0-9-zeenews
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
-https://zee5-rds.herokuapp.com/?c=0-9-170
+http://localhost:8080/playzee.php?c=0-9-170
 #EXTINF:-1, tvg-logo="" group-title="News",Zee Hindustan
-https://zee5-rds.herokuapp.com/?c=0-9-zeehindustan
+http://localhost:8080/playzee.php?c=0-9-zeehindustan
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
-https://zee5-rds.herokuapp.com/?c=0-9-zeepunjabharyanahima
+http://localhost:8080/playzee.php?c=0-9-zeepunjabharyanahima
 #EXTINF:-1, tvg-logo="" group-title="News",India Today
-https://zee5-rds.herokuapp.com/?c=0-9-indiatoday
+http://localhost:8080/playzee.php?c=0-9-indiatoday
 #EXTINF:-1, tvg-logo="" group-title="News",News24
-https://zee5-rds.herokuapp.com/?c=0-9-206
+http://localhost:8080/playzee.php?c=0-9-206
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",India News Punjabi Himachal
-https://zee5-rds.herokuapp.com/?c=0-9-274
+http://localhost:8080/playzee.php?c=0-9-274

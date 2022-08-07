@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Cinema HD
-https://zee5-rds.herokuapp.com/?c=0-9-zeecinemahd
+http://localhost:8080/playzee.php?c=0-9-zeecinemahd
 #EXTINF:-1, tvg-logo="" group-title="Movie",&Pictures HD
-https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
+http://localhost:8080/playzee.php?c=0-9-tvpictureshd
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Anmol Cinema
-https://zee5-rds.herokuapp.com/?c=0-9-zeeanmolcinema
+http://localhost:8080/playzee.php?c=0-9-zeeanmolcinema
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Bollywood
-https://zee5-rds.herokuapp.com/?c=0-9-zeeclassic
+http://localhost:8080/playzee.php?c=0-9-zeeclassic
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Cinema
-https://zee5-rds.herokuapp.com/?c=0-9-zeecinema
+http://localhost:8080/playzee.php?c=0-9-zeecinema
 #EXTINF:-1, tvg-logo="" group-title="Movie",&Pictures
-https://zee5-rds.herokuapp.com/?c=0-9-pictures
+http://localhost:8080/playzee.php?c=0-9-pictures
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Action
-https://zee5-rds.herokuapp.com/?c=0-9-zeeaction
+http://localhost:8080/playzee.php?c=0-9-zeeaction
 #EXTINF:-1, tvg-logo="" group-title="Movie",&Prive HD
-https://zee5-rds.herokuapp.com/?c=0-9-privéhd
+http://localhost:8080/playzee.php?c=0-9-privéhd
 #EXTINF:-1, tvg-logo="" group-title="Movie",&flix HD
-https://zee5-rds.herokuapp.com/?c=0-9-channel_2105335046
+http://localhost:8080/playzee.php?c=0-9-channel_2105335046
 #EXTINF:-1, tvg-logo="" group-title="Movie",&xplorHD
-https://zee5-rds.herokuapp.com/?c=0-9-209
+http://localhost:8080/playzee.php?c=0-9-209
