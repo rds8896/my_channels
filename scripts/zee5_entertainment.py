@@ -15,7 +15,7 @@ entertainment_id = ['0-9-bigmagic_1786965389',
 
 
 for i in entertainment_id:
-    api_url = "https://zee5-rds.herokuapp.com/?c={}".format(i)
+    api_url = "http://localhost:8080/playzee.php?c={}".format(i)
 
     #z_json = requests.get(api_url, timeout=(2,5)).status_code
 
