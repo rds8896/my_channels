@@ -15,7 +15,7 @@ news_id = ['0-9-aajtak',
 
 
 for i in news_id:
-    api_url = "https://zee5-rds.herokuapp.com/?c={}".format(i)
+    api_url = "http://localhost:8080/playzee.php?c={}".format(i)
 
     #z_json = requests.get(api_url).text
 

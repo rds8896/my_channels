@@ -17,7 +17,7 @@ id = ['0-9-zing',
       '0-9-376']
 
 for i in id:
-    api_url = "https://zee5-rds.herokuapp.com/?c={}".format(i)
+    api_url = "http://localhost:8080/playzee.php?c={}".format(i)
 
     #z_json = requests.get(api_url).text
 
