@@ -4,15 +4,11 @@
 http://localhost:8080/playzee.php?c=0-9-aajtak
 #EXTINF:-1, tvg-logo="" group-title="News",Zee News
 http://localhost:8080/playzee.php?c=0-9-zeenews
-#EXTINF:-1, tvg-logo="" group-title="News",News Nation
-http://localhost:8080/playzee.php?c=0-9-170
 #EXTINF:-1, tvg-logo="" group-title="News",Zee Hindustan
 http://localhost:8080/playzee.php?c=0-9-zeehindustan
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
 http://localhost:8080/playzee.php?c=0-9-zeepunjabharyanahima
 #EXTINF:-1, tvg-logo="" group-title="News",India Today
 http://localhost:8080/playzee.php?c=0-9-indiatoday
-#EXTINF:-1, tvg-logo="" group-title="News",News24
-http://localhost:8080/playzee.php?c=0-9-206
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",India News Punjabi Himachal
 http://localhost:8080/playzee.php?c=0-9-274
