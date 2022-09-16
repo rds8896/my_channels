@@ -12,5 +12,7 @@ http://localhost:8080/playzee.php?c=0-9-zeehindustan
 http://localhost:8080/playzee.php?c=0-9-zeepunjabharyanahima
 #EXTINF:-1, tvg-logo="" group-title="News",India Today
 http://localhost:8080/playzee.php?c=0-9-indiatoday
+#EXTINF:-1, tvg-logo="" group-title="News",News24
+http://localhost:8080/playzee.php?c=0-9-206
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",India News Punjabi Himachal
 http://localhost:8080/playzee.php?c=0-9-274
