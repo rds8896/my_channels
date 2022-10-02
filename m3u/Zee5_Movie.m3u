@@ -2,12 +2,20 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Cinema HD
 http://localhost:8080/playzee.php?c=0-9-zeecinemahd
+#EXTINF:-1, tvg-logo="" group-title="Movie",&Pictures HD
+http://localhost:8080/playzee.php?c=0-9-tvpictureshd
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Anmol Cinema
 http://localhost:8080/playzee.php?c=0-9-zeeanmolcinema
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Bollywood
 http://localhost:8080/playzee.php?c=0-9-zeeclassic
 #EXTINF:-1, tvg-logo="" group-title="Movie",Zee Cinema
 http://localhost:8080/playzee.php?c=0-9-zeecinema
+#EXTINF:-1, tvg-logo="" group-title="Movie",&Pictures
+http://localhost:8080/playzee.php?c=0-9-pictures
+#EXTINF:-1, tvg-logo="" group-title="Movie",Zee Action
+http://localhost:8080/playzee.php?c=0-9-zeeaction
+#EXTINF:-1, tvg-logo="" group-title="Movie",&Prive HD
+http://localhost:8080/playzee.php?c=0-9-privéhd
 #EXTINF:-1, tvg-logo="" group-title="Movie",&flix HD
 http://localhost:8080/playzee.php?c=0-9-channel_2105335046
 #EXTINF:-1, tvg-logo="" group-title="Movie",&xplorHD
