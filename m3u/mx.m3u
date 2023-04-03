@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="News",NDTV India
-None
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680545769/ei/icMqZKuRFZnZhgbP3qS4CA/ip/20.42.13.48/id/MN8p-Vrn6G0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZc6LFGSELFsVZFoaYhKNYI8uIcwqlqvgZBF7CMherlwCIAb_fsPctliz1xSoFL5Udlm1fwSi7sS4VSYCLXYLpimj/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",News18
 None
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
-None
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680545770/ei/isMqZPCcHviU_9EP946uoAU/ip/20.42.13.48/id/Xmm3Kr5P1Uw.20/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWKq0lZaMMvXtNTmUGVpe6UQN6yxpgYK31SAfDNxqqskCIEyC_fz6mO3D4rxBQPdCfeSyt1SMTRK3KYnbBb3oFHRF/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
 None
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",News18 Punjab
-None
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680545771/ei/i8MqZM_qFZ-W_9EPg7Kw4AM/ip/20.42.13.48/id/_W5UfJQDv2Q.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOs_JUP346XFTFy-AZJqXMCNS8KXgdYtmGPmm2xxpzEOAiEA8v9JABkrCj6sRtCRU7UesKw89RboX3gZyg_SWOkyaIQ%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",AajTak
 None
 #EXTINF:-1, tvg-logo="" group-title="News",ZeeNews
