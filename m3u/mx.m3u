@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="" group-title="News",NDTV India
-None
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703441686/ei/tiCIZajsAaP5ir4P5sO1oAM/ip/172.183.121.17/id/MN8p-Vrn6G0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7fZDVq5dv7nIsbEtdpf-3gYDRxS7P0TU_LLdw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgb_f2z0msFy0W72P5kGxDENAzi_MCFCHLnQ21aIr42mACIBSFW7WB0Xv9QtBWgclhFEfKCkOTJUzlVF7yan8J19Pu/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",News18
 None
 #EXTINF:-1, tvg-logo="" group-title="News",India TV
-None
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703441687/ei/tyCIZYjcB_WM2_gPw62T-AU/ip/172.183.121.17/id/Xmm3Kr5P1Uw.45/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9sr9673Y6n2L80zuOJ6-RaPGBjB3x2md50Eqg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFqiw7KwNpQBl1Epri0XPKss6PeEY32qL0w-dxl4Jv-kCIQDMk1axpAEY1JrCMXyP1vLZveMRNQqVImAzSHJO544IDw%3D%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",News Nation
 None
 #EXTINF:-1, tvg-logo="" group-title="Punjabi",News18 Punjab
